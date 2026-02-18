@@ -59,35 +59,37 @@ Welcome to my GitHub profile! I'm a dedicated developer with a love for building
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=derrentuscano&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=derrentuscano&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
-![Derren's GitHub stats](https://github-readme-stats.vercel.app/api?username=derrentuscano&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=derrentuscano&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrentuscano&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrentuscano&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## ���� GitHub Streak
+## 🔥 GitHub Streak
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=derrentuscano&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=derrentuscano&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🌟 Contribution Graph
 
-[![Derren's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derrentuscano&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derrentuscano&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -99,7 +101,9 @@ Welcome to my GitHub profile! I'm a dedicated developer with a love for building
 
 ## 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=derrentuscano&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=derrentuscano&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
