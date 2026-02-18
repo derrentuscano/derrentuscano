@@ -59,23 +59,7 @@ Welcome to my GitHub profile! I'm a dedicated developer with a love for building
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derrentuscano&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derrentuscano&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrentuscano&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
+<
 
 ## 🔥 GitHub Streak
 
