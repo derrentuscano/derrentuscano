@@ -57,9 +57,6 @@ Welcome to my GitHub profile! I'm a dedicated developer with a love for building
 
 ---
 
-## 🏆 GitHub Trophies
-
-<
 
 ## 🔥 GitHub Streak
 
