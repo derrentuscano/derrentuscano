@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a dedicated developer with a love for building
 - 🔭 I'm currently working on **Full Stack Web Applications & AI Integration Projects**
 - 🌱 I'm currently learning **Machine Learning, AI, and Advanced Full Stack Development**
 - 👯 I'm looking to collaborate on **Open Source Projects and Innovative Tech Solutions**
-- 🤝 I'm looking for help with **Deep Learning & Neural Networks**
+- 🤝 I'm looking for help with **Cybersecurity & Blockchain**
 - 💡 I'm passionate about **Problem Solving and Building Scalable Applications**
 - 👨‍💻 All of my projects are available here on my [GitHub](https://github.com/derrentuscano)
 - 📫 How to reach me: **derrenintech@gmail.com**
